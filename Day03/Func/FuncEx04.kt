@@ -1,4 +1,9 @@
-//Bubble sort
+/*[problem1]
+        sort함수
+            customsort(정수, 정수, 정수 ...)
+            => 오름 차순 정렬 출력
+             *버블 sort
+*/
 fun customSort(vararg arrvalue: Int){
     var tmp:Int =0
     for(i in arrvalue){
