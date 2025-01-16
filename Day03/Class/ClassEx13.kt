@@ -1,4 +1,5 @@
 class FoodPoll(val name:String){
+    //static과 유사함
     companion object{
         var total:Int =0
     }
