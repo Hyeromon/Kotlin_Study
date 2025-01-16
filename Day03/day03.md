@@ -55,4 +55,18 @@
         2.람다함수(표현)
         val result: () -> Unit = {println("파라미터가 없음")}
 
+        람다함수 : 컬렉션
+        ->Stream
+            컬렉션
+                1.List / Set / Map
+                2.Mutable / Immutable
+
+            컬렉션 함수
+                필터
+                조건/검색
+                맵
+                추출
+                정렬
+                변환
+
     
