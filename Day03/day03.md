@@ -46,8 +46,13 @@
         -이름있는 argument
 
     일급함수(고차함수)
+        1.익명함수 = 변수 할당
+
+        var result = fun(x:Int, y:Int):Int{
+            return x+y
+        }
+        
+        2.람다함수(표현)
+        val result: () -> Unit = {println("파라미터가 없음")}
+
     
-    sort함수
-        customsort(정수, 정수, 정수 ...)
-        => 오름 차순 정렬 출력
-            *버블 sort
