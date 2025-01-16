@@ -69,4 +69,14 @@
                 정렬
                 변환
 
-    
+클래스
+
+캡슐화
+
+접근제어자
+    public
+    internal(default)
+    protected
+    private
+
+
