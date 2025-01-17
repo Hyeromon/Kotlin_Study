@@ -36,9 +36,15 @@
             super/ super()
             오버라이딩
                 open/ override
-            다형
-            추상
+            다형 
+                - 형변환 : is as
+            추상 
+                - abastract / interface
 
 
 
-문법 - API -> 새로운 라이브러리 개발
+부모의 확장
+    1. 상속
+    2. extention 함수 / 속성
+        fun 함수명: 리턴{}
+        =>fun 확장클래스 함수명: 리턴{}
