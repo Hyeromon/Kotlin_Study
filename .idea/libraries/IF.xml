@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="IF">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Day01/IF/IfEx01.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Day01/IF/IfEx02.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Day01/IF/IfEx03.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Day01/IF/ProblemEx01.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

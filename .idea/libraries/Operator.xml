@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Operator">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Day01/Operator/OperatorEx01.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Day01/Operator/OperatorEx03.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Day01/Operator/OperatorEx02.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Day01/Operator/OperatorEx05.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Day01/Operator/OperatorEx04.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

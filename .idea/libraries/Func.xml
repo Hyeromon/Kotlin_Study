@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Func">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Day03/Func/FuncEx03.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Day03/Func/FuncEx04.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Day03/Func/FuncEx02.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Day03/Func/FuncEx01.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Day03/Func/FuncEx07.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Day03/Func/FuncEx06.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Day03/Func/FuncEx05.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Array">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Day02/Array/ArrayEx01.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Day02/Array/ArrayEx03.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Day02/Array/ArrayEx04.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Day02/Array/ArrayEx05.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Day02/Array/ArrayEx02.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

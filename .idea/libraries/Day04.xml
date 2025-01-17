@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="Day04">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Day04/AbstractEx02.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Day04/NestedEx01.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Day04/ExceptionEx01.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Day04/innerEx01.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Day04/ExtensionEx03.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Day04/PolyEx01.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Day04/InterfaceEx02.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Day04/EnumEx02.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Day04/infixEx00.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Day04/AbstractEx01.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Day04/ScopeEx01.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Day04/ExtensionEx01.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Day04/ExtensionEx02.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Day04/InterfaceEx01.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Day04/EnumEx01.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

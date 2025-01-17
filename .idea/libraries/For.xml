@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="For">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Day02/For/ForEx02.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Day02/For/ForEx01.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Day02/For/별찍기.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Day02/For/ForEx03.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

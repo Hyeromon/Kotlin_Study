@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="while">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Day02/while/DoWhileEx01.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Day02/while/Gugudan.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Day02/while/WhileEx01.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

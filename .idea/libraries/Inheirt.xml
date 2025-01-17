@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Inheirt">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Day03/Inheirt/InheritEx05.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Day03/Inheirt/InheritEx06.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Day03/Inheirt/InheritEx01.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Day03/Inheirt/InheritEx02.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Day03/Inheirt/InheritEx04.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Day03/Inheirt/InheritEx03.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="Type">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Day01/Type/TypeEx12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Day01/Type/TypeEx06.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Day01/Type/TypeEx07.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Day01/Type/TypeEx02.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Day01/Type/TypeEx03.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Day01/Type/TypeEx01_Boolean.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Day01/Type/TypeEx05.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Day01/Type/TypeEx11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Day01/Type/TypeEx04.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Day01/Type/TypeEx10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Day01/Type/TypeEx08.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

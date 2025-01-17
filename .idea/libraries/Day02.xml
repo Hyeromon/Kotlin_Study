@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="Day02">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Day02/ListEx01.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Day02/IFEx01.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Day02/SetEx02.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Day02/MapEx02.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Day02/MapEx01.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Day02/ListEx03.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Day02/TypecastinEx01.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Day02/InitcapEx01.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Day02/WhenEx01.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Day02/FuncEx01.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Day02/BreakEx01.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

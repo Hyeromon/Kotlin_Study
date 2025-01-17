@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Variable">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Day01/Variable/VariableEx02.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Day01/Variable/VariableEx05.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Day01/Variable/VariableEx04.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Day01/Variable/VariableEx03.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Day01/Variable/Variable.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Day01/Variable/VariableEx06_lateinit.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
