@@ -48,3 +48,9 @@
     2. extention 함수 / 속성
         fun 함수명: 리턴{}
         =>fun 확장클래스 함수명: 리턴{}
+    3.[infix 함수]("https://kotlinlang.org/docs/functions.html#infix-notation")
+
+    
+[범위(Scope)함수]("https://kotlinlang.org/docs/scope-functions.html#scope-functions.md")
+
+[비정상 함수]("https://kotlinlang.org/docs/exceptions.htm")
